@@ -57,7 +57,7 @@
 ## Purpose of This Tutorial
 
 1. **Enhancing the Use of Scripting for 3D Visualization**: This tutorial aims to assist users in better utilizing scripts to create 3D volumes and various slices. This method is more efficient and repeatable compared to traditional manual operations, especially for complex visualization requirements.
-2. **Offering a Free and Precise Alternative**: In contrast to commercial software like `Voxler` or `ParaView`, which often require manual adjustments and lack precision, this tutorial uses `PyVista` to provide a free, open-source solution that allows users to precisely control the visualization process.
+2. **Offering a Free and Precise Alternative**: In contrast to commercial software like `Voxler` or the open source software `ParaView`, which often require manual adjustments and lack precision, this tutorial uses `PyVista` to provide a free, open-source solution that allows users to precisely control the visualization process.
 3. **Emphasizing the Spirit of Open Source and Sharing**: The tutorial embraces the spirit of open-source and sharing, intending to help more people gain proficiency in professional tools and to promote the dissemination and exchange of technical knowledge.
 
 ---
@@ -115,7 +115,7 @@
 ## 写这个教程的原因
 
 1. **促进三维绘图脚本的应用**：本教程旨在帮助大家更好地使用脚本来绘制三维体图和各种切片。这种方法较传统手动操作更高效和可重复，适合更批量化等复杂的可视化需求。
-2. **提供免费、精准的替代方案**：相比商业付费软件如 `Voxler` 或 `ParaView`，这些软件常需要手动调节且不够精准，本教程将通过 `PyVista` 提供一个免费的开源解决方案，使用户能够精确控制可视化过程。
+2. **提供免费、精准的替代方案**：相比商业付费软件如 `Voxler` 及开源软件 `ParaView`，这些软件常需要手动调节且不够精准，本教程将通过 `PyVista` 提供一个免费的开源解决方案，使用户能够精确控制可视化过程。
 3. **支持开源共享精神**：本教程秉持开源共享的精神，希望帮助更多人掌握专业工具，并促进技术知识的传播和交流。
 
 ---
